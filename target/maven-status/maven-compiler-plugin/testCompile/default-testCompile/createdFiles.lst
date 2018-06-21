@@ -1,0 +1,6 @@
+com\qa\tests\LoginPageTest.class
+com\qa\tests\AdvertisingPageTest.class
+com\qa\tests\FreelistingPageTest.class
+com\qa\tests\HomepPageTest.class
+com\qa\tests\SignupPageTest.class
+com\qa\tests\SocialPageTest.class
