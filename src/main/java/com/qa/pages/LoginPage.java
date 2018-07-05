@@ -39,6 +39,7 @@ public class LoginPage extends BaseClass{
 	public HomePage login(String user, String phn){
 			
 		loginLink.click();
+		
 		username.sendKeys(user);
 		mobile.sendKeys(phn);
 		sendOtpBtn.click();
